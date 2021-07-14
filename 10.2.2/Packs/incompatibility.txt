@@ -1,0 +1,36 @@
+# If you see several packs on the same line, they are incompatible.
+
+Abilities:
+Badges:
+Class_Bio:
+Class_Descriptions:
+Class_Names:
+Class_Nicknames:
+Connection_Errors:
+Connection_Info:
+Death_Causes
+DecontaminationDisplays:
+Doors:
+Facility: More Colors
+GameHints: More Colors
+HID_Sign: Short Signs
+Intercom
+Intercom_Door_Sign: Short Signs
+InventoryErrors:
+Keybinds:
+Legacy_Interfaces:
+LoadingHints:
+MainMenu:
+MenuWarnings:
+NewInventory:
+NewMainMenu:
+Nuke:
+Nuke_Silo_Sign: Short Signs
+ReportForm:
+SCP_Interfaces:
+SCP079:
+Summary:
+Version_7-0-0:
+WeaponManager:
+WeaponMods: Better Workstations
+Workstations: Better Workstations

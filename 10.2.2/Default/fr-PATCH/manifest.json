@@ -1,0 +1,15 @@
+{
+  "Name": "Français (Patch) - French (Patch)",
+  "Authors": [
+    "FranceSCP",
+    "lucasboss45",
+    "Ganxly",
+    "MajorFox"
+  ],
+  "SystemLocales": [
+    "fr-PATCH"
+  ],
+  "ForcedFontOrder": [
+
+  ]
+}
