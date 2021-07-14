@@ -1,0 +1,17 @@
+<color=red>PAS DE MODIFICATION</color>
+<color=red>Aucun</color>
+<color=#129000>Vision Holographique</color>
+<color=#129000>Viseur Point Rouge</color>
+<color=#129000>Viseur Point Bleu</color>
+<color=#129000>Collimateur</color>
+<color=#129000>Vision Nocturne</color>
+<color=#129000>Lunette de Sniper</color>
+<color=#009070>Suppresseur</color>
+<color=#009070>Silencieux</color>
+<color=#009070>Canon lourd</color>
+<color=#009070>Frein de bouche</color>
+<color=#009070>Muzzle Booster</color>
+<color=#710090>Stabilisateur gyroscopique</color>
+<color=#710090>Lampe</color>
+<color=#710090>Laser</color>
+<color=#710090>Compteur de munitions</color>

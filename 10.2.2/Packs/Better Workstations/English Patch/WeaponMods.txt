@@ -1,0 +1,17 @@
+<color=red>NO MODS</color>
+<color=red>None</color>
+<color=#129000>Holo Sight</color>
+<color=#129000>Red Dot Sight</color>
+<color=#129000>Blue Dot Sight</color>
+<color=#129000>Collimator Sight</color>
+<color=#129000>Night Vision Sight</color>
+<color=#129000>Sniper Scope</color>
+<color=#009070>Suppressor</color>
+<color=#009070>Silencer</color>
+<color=#009070>Heavy Barrel</color>
+<color=#009070>Muzzle Brake</color>
+<color=#009070>Muzzle Booster</color>
+<color=#710090>Gyroscopic Stabilizer</color>
+<color=#710090>Flashlight</color>
+<color=#710090>Laser</color>
+<color=#710090>Ammo Counter</color>

@@ -1,0 +1,18 @@
+<size=70><color=blue>WORKSTATION</color> - <color=red>LOCKED</color></size>\naccess by unauthorized personnel is strictly prohibited\nplease connect your weapon manager in order to verify the identity
+<size=70><color=blue>PLEASE STAND BY</color></size>\nverifying the connected weapon manager
+<size=70><color=blue>WORKSTATION</color> - <color=green>READY</color></size>\n\nplease equip the weapon you want to modify
+<size=70><color=blue>WHAT WOULD YOU LIKE TO CHANGE?</color></size>
+<color=#129000>{0} sights</color>
+<color=#009070>{0} barrel extensions</color>
+<color=#710090>{0} other attachments</color>
+<color=red>BACK</color>
+Damage {0}
+Shot loudness {0}
+Recoil {0}
+Fire rate {0}
+Bullet spread (without aiming) {0}
+<color=red>Modifies crosshair</color>
+<color=green>Telescopic-type sight</color>
+Zoom scale <color=green>{0}</color>
+Recoil (while aiming) {0}
+<size=70><color=blue>GOODBYE!</color></size>\nterminating the current session
